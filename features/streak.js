@@ -1,1 +1,3 @@
-
+if(today !== lastLoginDate){
+streak++
+}
